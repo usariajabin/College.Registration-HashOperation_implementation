@@ -1,0 +1,18 @@
+ Here's the registration database
+
+Student's name & id : JONES, MARY, 903452
+Total credits       : 6.5
+Gpa (calculated)    : 3.57
+Course info :
+4342	 A
+3311	 B+
+
+
+Student's name & id : MARTIN, JOSEPH, 312345
+Total credits       : 10.0
+Gpa (calculated)    : 3.31
+Course info :
+4598	 C
+1122	 A-
+2467	 A
+
